@@ -32,7 +32,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## Security Vulnerabilities of project
 
-If you discover a security vulnerability within the project, please send an e-mail to Kanak Manjari at nvrrohith45@gmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within the project, please send an e-mail  to nvrrohith45@gmail.com. All security vulnerabilities will be promptly addressed.
 
 
 #
